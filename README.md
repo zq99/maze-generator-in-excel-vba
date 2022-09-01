@@ -23,10 +23,7 @@ Please do the following:
 - You run the macro 'ResetMaze' if you need to restore the UI to its default state.
 
 
-## Further Information
 
-You can read more about this project here: 
-- https://datapluscode.com/general/maze-generation-in-excel-using-vba/
 
 
 
